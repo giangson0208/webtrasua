@@ -239,7 +239,7 @@ e.preventDefault();
             <div class="three columns column">
                <h3>Đối Tác</h3>
                <ul>
-                  <li><a href="#">Contact Us</a></li>
+                  <li><a href="#">Feeling Tea</a></li>
                   <li><a href="#">Contact Us</a></li>
                   <li><a href="#">Contact Us</a></li>
                   
