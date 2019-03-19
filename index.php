@@ -1,4 +1,4 @@
-<!-- <base href="http://localhost/trasua/" />-->
+<!--<base href="http://localhost/trasua/" />-->
  <base href="http://trasua.com/" />
 
 <?php 
@@ -240,8 +240,8 @@ e.preventDefault();
                <h3>Đối Tác</h3>
                <ul>
                   <li><a href="#">Feeling Tea</a></li>
-                  <li><a href="#">DingTea</a></li>
-                  <li><a href="#">ABC</a></li>
+                  <li><a href="#">Dingtea</a></li>
+                  <li><a href="#">Goky Tea</a></li>
                   
                </ul>
             </div>
