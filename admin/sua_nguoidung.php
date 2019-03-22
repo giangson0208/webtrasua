@@ -1,4 +1,4 @@
-﻿<link rel="stylesheet" href="css/them_sanpham.css">
+﻿<link rel="stylesheet" href="css/them_sanpham2.css">
 <?php
 		$idnd=$_GET['idnd'];
         $sql="select * from nguoidung where idnd='".$_GET['idnd']."'";
@@ -23,16 +23,18 @@
             	<td>Điện thoại</td><td><input type="text" name="dienthoai"  value="<?php echo $row['dienthoai'] ?>"/></td>
             </tr>
 			<tr>
-            	<td>Quền</td><td>
+            	<td>Quyền</td><td>
 					<select name="phanquyen">
-								<option value="0" > 0 </option>
-								<option value="1" selected="selected"> 1 </option>
+								<option value="0" > Admin </option>
+								<option value="1" selected="selected"> Nhân viên </option>
 					</select>
 				</td>
             </tr>
             <tr>
-                <td colspan=2 class="input"> <input type="submit" name="update" value="Update" />
-                <input type="reset" name="" value="Hủy" /></td>
+                <td colspan=2 class="input"> 
+				<input type="submit" name="update" value="Update" />
+                <input type="reset" name="" value="Hủy" />
+				</td>
             </tr>
         </table> 
 

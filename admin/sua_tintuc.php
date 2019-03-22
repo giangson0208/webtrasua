@@ -1,4 +1,4 @@
-﻿<link rel="stylesheet" href="css/them_sanpham.css">
+﻿<link rel="stylesheet" href="css/them_sanpham2.css">
 <?php
 		$matt=$_GET['matt'];
         $sql="select * from tintuc where matt='".$_GET['matt']."'";

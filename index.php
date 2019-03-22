@@ -1,5 +1,5 @@
 <!--<base href="http://localhost/trasua/" />-->
-<base href="http://trasua.com/" /> 
+ <base href="http://trasua.com/" />
 
 <?php 
 session_start();

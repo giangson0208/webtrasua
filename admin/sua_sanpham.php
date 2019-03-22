@@ -1,4 +1,4 @@
-﻿<link rel="stylesheet" href="css/them_sanpham.css">
+﻿<link rel="stylesheet" href="css/them_sanpham2.css">
 <?php
 		//include('../include/connect.php');
 		$idsp=$_GET['idsp'];

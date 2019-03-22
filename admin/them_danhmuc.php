@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Thêm Danh Mục</title>
-<link rel="stylesheet" href="css/them_sanpham.css" />
+<link rel="stylesheet" href="css/them_sanpham2.css" />
 </head>
 
 <body>
